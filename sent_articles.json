@@ -1,10 +1,11 @@
 {
-  "last_sent_date": "2026-07-03",
-  "library_index": 3,
+  "last_sent_date": "2026-07-04",
+  "library_index": 4,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare",
-    "https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery"
+    "https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery",
+    "https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies"
   ]
 }

@@ -1,12 +1,13 @@
 {
-  "last_sent_date": "2026-07-05",
-  "library_index": 7,
+  "last_sent_date": "2026-07-06",
+  "library_index": 8,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/delivery",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/key-technologies",
-    "https://www.hellointerview.com/learn/system-design/patterns/realtime-updates"
+    "https://www.hellointerview.com/learn/system-design/patterns/realtime-updates",
+    "https://www.hellointerview.com/learn/system-design/deep-dives/vector-databases"
   ]
 }

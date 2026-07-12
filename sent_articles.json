@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-07-11",
-  "library_index": 13,
+  "last_sent_date": "2026-07-12",
+  "library_index": 14,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -13,6 +13,7 @@
     "https://www.hellointerview.com/learn/system-design/deep-dives/kafka",
     "https://www.hellointerview.com/learn/system-design/deep-dives/cassandra",
     "https://www.hellointerview.com/learn/system-design/deep-dives/elasticsearch",
-    "https://www.hellointerview.com/learn/system-design/deep-dives/dynamodb"
+    "https://www.hellointerview.com/learn/system-design/deep-dives/dynamodb",
+    "https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber"
   ]
 }

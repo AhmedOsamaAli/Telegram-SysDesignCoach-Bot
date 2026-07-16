@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-07-15",
-  "library_index": 17,
+  "last_sent_date": "2026-07-16",
+  "library_index": 18,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -17,6 +17,7 @@
     "https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber",
     "https://www.hellointerview.com/learn/system-design/problem-breakdowns/distributed-rate-limiter",
     "https://www.hellointerview.com/learn/system-design/problem-breakdowns/instagram",
-    "https://www.hellointerview.com/learn/system-design/problem-breakdowns/yelp"
+    "https://www.hellointerview.com/learn/system-design/problem-breakdowns/yelp",
+    "https://www.hellointerview.com/learn/system-design/problem-breakdowns/web-crawler"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-07-28",
-  "library_index": 43,
+  "last_sent_date": "2026-07-29",
+  "library_index": 44,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -30,6 +30,7 @@
     "https://sre.google/sre-book/service-level-objectives/",
     "https://sre.google/sre-book/eliminating-toil/",
     "https://sre.google/sre-book/monitoring-distributed-systems/",
-    "https://sre.google/sre-book/handling-overload/"
+    "https://sre.google/sre-book/handling-overload/",
+    "https://sre.google/sre-book/addressing-cascading-failures/"
   ]
 }

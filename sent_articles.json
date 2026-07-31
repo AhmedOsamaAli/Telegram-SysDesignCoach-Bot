@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-07-30",
-  "library_index": 45,
+  "last_sent_date": "2026-07-31",
+  "library_index": 46,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -32,6 +32,7 @@
     "https://sre.google/sre-book/monitoring-distributed-systems/",
     "https://sre.google/sre-book/handling-overload/",
     "https://sre.google/sre-book/addressing-cascading-failures/",
-    "https://sre.google/sre-book/managing-critical-state/"
+    "https://sre.google/sre-book/managing-critical-state/",
+    "https://sre.google/sre-book/load-balancing-datacenter/"
   ]
 }

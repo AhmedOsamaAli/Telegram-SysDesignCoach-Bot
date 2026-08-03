@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-02",
-  "library_index": 48,
+  "last_sent_date": "2026-08-03",
+  "library_index": 49,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -35,6 +35,7 @@
     "https://sre.google/sre-book/managing-critical-state/",
     "https://sre.google/sre-book/load-balancing-datacenter/",
     "https://sre.google/sre-book/load-balancing-frontend/",
-    "https://sre.google/sre-book/data-integrity/"
+    "https://sre.google/sre-book/data-integrity/",
+    "https://sre.google/sre-book/release-engineering/"
   ]
 }

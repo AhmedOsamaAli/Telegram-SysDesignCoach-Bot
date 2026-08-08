@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-07",
-  "library_index": 53,
+  "last_sent_date": "2026-08-08",
+  "library_index": 54,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -40,6 +40,7 @@
     "https://sre.google/sre-book/simplicity/",
     "https://martinfowler.com/articles/microservices.html",
     "https://martinfowler.com/bliki/CQRS.html",
-    "https://martinfowler.com/eaaDev/EventSourcing.html"
+    "https://martinfowler.com/eaaDev/EventSourcing.html",
+    "https://martinfowler.com/bliki/CircuitBreaker.html"
   ]
 }

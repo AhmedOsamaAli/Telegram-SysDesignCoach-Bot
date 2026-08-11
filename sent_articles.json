@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-10",
-  "library_index": 56,
+  "last_sent_date": "2026-08-11",
+  "library_index": 57,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -43,6 +43,7 @@
     "https://martinfowler.com/eaaDev/EventSourcing.html",
     "https://martinfowler.com/bliki/CircuitBreaker.html",
     "https://martinfowler.com/bliki/StranglerFigApplication.html",
-    "https://martinfowler.com/bliki/BoundedContext.html"
+    "https://martinfowler.com/bliki/BoundedContext.html",
+    "https://martinfowler.com/bliki/MonolithFirst.html"
   ]
 }

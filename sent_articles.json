@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-20",
-  "library_index": 66,
+  "last_sent_date": "2026-08-21",
+  "library_index": 67,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -53,6 +53,7 @@
     "https://martinfowler.com/articles/data-mesh-principles.html",
     "https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html",
     "https://www.allthingsdistributed.com/2008/12/eventually_consistent.html",
-    "https://12factor.net/"
+    "https://12factor.net/",
+    "https://danluu.com/deconstruct-files/"
   ]
 }

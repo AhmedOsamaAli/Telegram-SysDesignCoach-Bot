@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-23",
-  "library_index": 69,
+  "last_sent_date": "2026-08-24",
+  "library_index": 70,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -56,6 +56,7 @@
     "https://12factor.net/",
     "https://danluu.com/deconstruct-files/",
     "https://danluu.com/postmortem-lessons/",
-    "https://danluu.com/web-bloat/"
+    "https://danluu.com/web-bloat/",
+    "https://danluu.com/percentile-latency/"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-08-26",
-  "library_index": 72,
+  "last_sent_date": "2026-08-27",
+  "library_index": 73,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -59,6 +59,7 @@
     "https://danluu.com/web-bloat/",
     "https://danluu.com/percentile-latency/",
     "https://discord.com/blog/how-discord-stores-billions-of-messages",
-    "https://discord.com/blog/how-discord-stores-trillions-of-messages"
+    "https://discord.com/blog/how-discord-stores-trillions-of-messages",
+    "https://discord.com/blog/how-discord-scaled-elixir-to-5-000-000-concurrent-users"
   ]
 }

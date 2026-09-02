@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-01",
-  "library_index": 78,
+  "last_sent_date": "2026-09-02",
+  "library_index": 79,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -65,6 +65,7 @@
     "https://discord.com/blog/how-discord-indexes-billions-of-messages",
     "https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency",
     "https://blog.cloudflare.com/the-story-of-one-latency-spike/",
-    "https://blog.cloudflare.com/counting-things-a-lot-of-different-things/"
+    "https://blog.cloudflare.com/counting-things-a-lot-of-different-things/",
+    "https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/"
   ]
 }

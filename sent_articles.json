@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-06",
-  "library_index": 85,
+  "last_sent_date": "2026-09-07",
+  "library_index": 86,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -70,6 +70,7 @@
     "https://blog.cloudflare.com/a-question-of-timing/",
     "https://aphyr.com/posts/313-strong-consistency-models",
     "https://aphyr.com/posts/288-the-network-is-reliable",
-    "https://jepsen.io/consistency"
+    "https://jepsen.io/consistency",
+    "https://raft.github.io/"
   ]
 }

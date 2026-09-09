@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-08",
-  "library_index": 88,
+  "last_sent_date": "2026-09-09",
+  "library_index": 89,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -72,6 +72,7 @@
     "https://aphyr.com/posts/288-the-network-is-reliable",
     "https://jepsen.io/consistency",
     "https://raft.github.io/",
-    "https://www.postgresql.org/docs/current/mvcc-intro.html"
+    "https://www.postgresql.org/docs/current/mvcc-intro.html",
+    "https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/"
   ]
 }

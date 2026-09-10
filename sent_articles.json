@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-09",
-  "library_index": 89,
+  "last_sent_date": "2026-09-10",
+  "library_index": 90,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -73,6 +73,7 @@
     "https://jepsen.io/consistency",
     "https://raft.github.io/",
     "https://www.postgresql.org/docs/current/mvcc-intro.html",
-    "https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/"
+    "https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/",
+    "https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-11",
-  "library_index": 91,
+  "last_sent_date": "2026-09-12",
+  "library_index": 92,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -75,6 +75,7 @@
     "https://www.postgresql.org/docs/current/mvcc-intro.html",
     "https://engineering.fb.com/2013/06/25/core-infra/tao-the-power-of-the-graph/",
     "https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/",
-    "https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/"
+    "https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/",
+    "https://stripe.com/blog/idempotency"
   ]
 }

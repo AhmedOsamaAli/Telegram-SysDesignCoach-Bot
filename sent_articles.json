@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-14",
-  "library_index": 94,
+  "last_sent_date": "2026-09-15",
+  "library_index": 95,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -78,6 +78,7 @@
     "https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/",
     "https://stripe.com/blog/idempotency",
     "https://stripe.com/blog/rate-limiters",
-    "https://stripe.com/blog/online-migrations"
+    "https://stripe.com/blog/online-migrations",
+    "https://stripe.com/blog/api-versioning"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-17",
-  "library_index": 97,
+  "last_sent_date": "2026-09-18",
+  "library_index": 98,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -81,6 +81,7 @@
     "https://stripe.com/blog/online-migrations",
     "https://stripe.com/blog/api-versioning",
     "https://stripe.com/blog/canonical-log-lines",
-    "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/"
+    "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
+    "https://www.figma.com/blog/rust-in-production-at-figma/"
   ]
 }

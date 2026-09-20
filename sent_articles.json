@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-19",
-  "library_index": 99,
+  "last_sent_date": "2026-09-20",
+  "library_index": 100,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -83,6 +83,7 @@
     "https://stripe.com/blog/canonical-log-lines",
     "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
     "https://www.figma.com/blog/rust-in-production-at-figma/",
-    "https://www.notion.so/blog/sharding-postgres-at-notion"
+    "https://www.notion.so/blog/sharding-postgres-at-notion",
+    "https://www.notion.so/blog/the-great-re-shard"
   ]
 }

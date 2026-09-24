@@ -1,6 +1,6 @@
 {
-  "last_sent_date": "2026-09-23",
-  "library_index": 102,
+  "last_sent_date": "2026-09-24",
+  "library_index": 103,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
     "https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction",
@@ -86,6 +86,7 @@
     "https://www.notion.so/blog/sharding-postgres-at-notion",
     "https://www.notion.so/blog/the-great-re-shard",
     "https://segment.com/blog/goodbye-microservices/",
-    "https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/"
+    "https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/",
+    "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine"
   ]
 }

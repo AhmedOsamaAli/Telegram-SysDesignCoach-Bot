@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-09-25",
+  "last_sent_date": "2026-09-26",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -88,6 +88,7 @@
     "https://segment.com/blog/goodbye-microservices/",
     "https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/",
     "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine",
-    "https://slack.engineering/real-time-messaging/"
+    "https://slack.engineering/real-time-messaging/",
+    "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design"
   ]
 }

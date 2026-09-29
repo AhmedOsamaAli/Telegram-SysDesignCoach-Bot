@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-09-27",
+  "last_sent_date": "2026-09-29",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -90,6 +90,7 @@
     "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine",
     "https://slack.engineering/real-time-messaging/",
     "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
-    "https://newsletter.systemdesign.one/p/spec-driven-development-ai-agents"
+    "https://newsletter.systemdesign.one/p/spec-driven-development-ai-agents",
+    "87db7fa7-a39a-4360-84e3-7f238967dc83"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-09-30",
+  "last_sent_date": "2026-10-01",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -92,6 +92,7 @@
     "https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
     "https://newsletter.systemdesign.one/p/spec-driven-development-ai-agents",
     "87db7fa7-a39a-4360-84e3-7f238967dc83",
-    "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design"
+    "https://www.infoq.com/presentations/context-as-code-devops-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+    "tag:martinfowler.com,2026-09-30:Principles-for-effective-slides"
   ]
 }

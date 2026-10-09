@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-10-08",
+  "last_sent_date": "2026-10-09",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -100,6 +100,7 @@
     "https://martinfowler.com/fragments/2026-10-04.html",
     "https://www.infoq.com/presentations/infrastructure-financial-services-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
     "https://www.infoq.com/presentations/agentic-dev-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
-    "f17b27e9-17f5-4203-8066-68c8df26ef42"
+    "f17b27e9-17f5-4203-8066-68c8df26ef42",
+    "https://blog.bytebytego.com/p/how-software-boundaries-are-the-most"
   ]
 }

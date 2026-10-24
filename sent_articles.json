@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-10-23",
+  "last_sent_date": "2026-10-24",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -116,6 +116,7 @@
     "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
     "https://www.infoq.com/presentations/scale-llm-agents-production-ray/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
     "https://github.blog/?p=99628",
-    "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e"
+    "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e",
+    "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design"
   ]
 }

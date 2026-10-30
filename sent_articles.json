@@ -1,5 +1,5 @@
 {
-  "last_sent_date": "2026-10-29",
+  "last_sent_date": "2026-10-30",
   "library_index": 104,
   "seen": [
     "5c7f0882-e1a7-4d0e-9e06-86cce9c3613a",
@@ -122,6 +122,7 @@
     "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
     "https://www.infoq.com/news/2026/10/opentofu-1-13-unknown-values/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
     "https://www.infoq.com/presentations/self-hosted-observability-stack-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
-    "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design"
+    "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design",
+    "https://www.infoq.com/presentations/ai-software-engineering-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture+%26+Design"
   ]
 }
